@@ -1,0 +1,397 @@
+Form submitted: 2025-06-25 16:32:06
+Login successful for shakib at 2025-06-25 16:32:06
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 11:49:16
+Login successful for admin at 2025-06-26 11:49:16
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-26 12:57:30
+Login successful for shakib at 2025-06-26 12:57:30
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 12:58:34
+Login successful for admin at 2025-06-26 12:58:34
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-26 13:03:19
+Login successful for shakib at 2025-06-26 13:03:19
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 13:08:46
+Login successful for admin at 2025-06-26 13:08:46
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-26 14:11:47
+Login successful for shakib at 2025-06-26 14:11:47
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 17:22:29
+Login successful for shakib at 2025-06-26 17:22:29
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 19:18:09
+Login successful for admin at 2025-06-26 19:18:09
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-26 19:19:58
+Login successful for shakib at 2025-06-26 19:19:58
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 19:20:54
+Login successful for saba at 2025-06-26 19:20:54
+Trying to insert login history for saba
+Login history inserted successfully: saba
+Updated dual user last_login for saba
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-27 06:26:31
+Login successful for admin at 2025-06-27 06:26:31
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-27 06:38:06
+Login successful for admin at 2025-06-27 06:38:06
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-27 08:06:09
+Login successful for test at 2025-06-27 08:06:09
+Trying to insert login history for test
+Login history inserted successfully: test
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-27 08:07:12
+Login successful for admin at 2025-06-27 08:07:12
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-27 14:59:30
+Login successful for admin at 2025-06-27 14:59:30
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-27 16:25:58
+Login successful for tanvir at 2025-06-27 16:25:58
+Trying to insert login history for tanvir
+Login history inserted successfully: tanvir
+Updated garage owner last_login for tanvir
+Login history tracking completed. Debug message: Login history recorded successfully!
+Business user - redirecting to business_desh.php
+Form submitted: 2025-06-27 16:30:28
+Login successful for admin at 2025-06-27 16:30:28
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-28 16:28:05
+Login successful for admin at 2025-06-28 16:28:05
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-28 19:07:30
+Login successful for saba at 2025-06-28 19:07:30
+Trying to insert login history for saba
+Login history inserted successfully: saba
+Updated dual user last_login for saba
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-28 19:09:48
+Login successful for shakib at 2025-06-28 19:09:48
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-28 19:11:47
+Login failed: Incorrect password for ashiq
+Form submitted: 2025-06-28 19:11:55
+Login failed: Incorrect password for ashiq
+Form submitted: 2025-06-28 19:12:09
+Login successful for ashiq at 2025-06-28 19:12:09
+Trying to insert login history for ashiq
+Login history inserted successfully: ashiq
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-28 19:13:03
+Login successful for tanvir at 2025-06-28 19:13:03
+Trying to insert login history for tanvir
+Login history inserted successfully: tanvir
+Updated garage owner last_login for tanvir
+Login history tracking completed. Debug message: Login history recorded successfully!
+Business user - redirecting to business_desh.php
+Form submitted: 2025-06-28 19:13:27
+Login successful for saba at 2025-06-28 19:13:27
+Trying to insert login history for saba
+Login history inserted successfully: saba
+Updated dual user last_login for saba
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-28 19:15:14
+Login successful for shakib at 2025-06-28 19:15:14
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-28 19:16:17
+Login failed: Incorrect password for ashiq
+Form submitted: 2025-06-28 19:16:23
+Login successful for ashiq at 2025-06-28 19:16:23
+Trying to insert login history for ashiq
+Login history inserted successfully: ashiq
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-28 19:16:51
+Login failed: Incorrect password for admin
+Form submitted: 2025-06-28 19:16:58
+Login successful for admin at 2025-06-28 19:16:58
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 03:58:47
+Login successful for admin at 2025-06-29 03:58:47
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 04:06:29
+Login successful for tanvir at 2025-06-29 04:06:29
+Trying to insert login history for tanvir
+Login history inserted successfully: tanvir
+Updated garage owner last_login for tanvir
+Login history tracking completed. Debug message: Login history recorded successfully!
+Business user - redirecting to business_desh.php
+Form submitted: 2025-06-29 04:06:54
+Login successful for shakib at 2025-06-29 04:06:54
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 04:07:16
+Login successful for saba at 2025-06-29 04:07:16
+Trying to insert login history for saba
+Login history inserted successfully: saba
+Updated dual user last_login for saba
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 04:07:39
+Login failed: Incorrect password for ashiq
+Form submitted: 2025-06-29 04:07:46
+Login successful for ashiq at 2025-06-29 04:07:46
+Trying to insert login history for ashiq
+Login history inserted successfully: ashiq
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 04:09:02
+Login successful for admin at 2025-06-29 04:09:02
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 04:48:10
+Login successful for shakib at 2025-06-29 04:48:10
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 04:50:02
+Login successful for admin at 2025-06-29 04:50:02
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 17:13:25
+Login successful for admin at 2025-06-29 17:13:25
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 17:40:28
+Login successful for shakib at 2025-06-29 17:40:28
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 17:40:51
+Login successful for admin at 2025-06-29 17:40:51
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 17:41:38
+Login successful for shakib at 2025-06-29 17:41:38
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 17:42:18
+Login successful for saba at 2025-06-29 17:42:18
+Trying to insert login history for saba
+Login history inserted successfully: saba
+Updated dual user last_login for saba
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 17:44:01
+Login successful for shakib at 2025-06-29 17:44:01
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 17:44:51
+Login successful for admin at 2025-06-29 17:44:51
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 18:05:12
+Login successful for shakib at 2025-06-29 18:05:12
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-29 18:06:23
+Login successful for admin at 2025-06-29 18:06:23
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-29 18:50:24
+Login successful for shakib at 2025-06-29 18:50:24
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 03:19:03
+Login successful for shekhhasina123 at 2025-06-30 03:19:03
+Trying to insert login history for shekhhasina123
+Login history inserted successfully: shekhhasina123
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 03:49:32
+Login successful for admin at 2025-06-30 03:49:32
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-30 05:02:48
+Login successful for admin at 2025-06-30 05:02:48
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-30 05:03:03
+Login successful for shakib at 2025-06-30 05:03:03
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 05:03:27
+Login successful for shakib at 2025-06-30 05:03:27
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 05:06:59
+Login successful for shakib at 2025-06-30 05:06:59
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 07:02:10
+Login successful for shakib at 2025-06-30 07:02:10
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 08:50:59
+Login successful for shakib at 2025-06-30 08:50:59
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 08:53:49
+Login successful for shakib at 2025-06-30 08:53:49
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 09:01:36
+Login successful for shakib at 2025-06-30 09:01:36
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 09:02:23
+Login successful for shakib at 2025-06-30 09:02:23
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 09:03:32
+Login successful for shakib at 2025-06-30 09:03:32
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-30 09:31:32
+Login successful for admin at 2025-06-30 09:31:32
+Trying to insert login history for admin
+Login history inserted successfully: admin
+Login history tracking completed. Debug message: Login history recorded successfully!
+Admin user - redirecting to admin.php
+Form submitted: 2025-06-30 10:36:25
+Login successful for shakib at 2025-06-30 10:36:25
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
